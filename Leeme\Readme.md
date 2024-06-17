@@ -40,6 +40,7 @@ El .exe es la misma version .py pero ya pasda a .exe para su facil acceso y uso.
 The .exe is the same .py version but it has already been converted to .exe for easy access and use.
 
 
-------------------------------------------------------------------------------------
-  .......No me responsabilizo por mal uso del mismo, o mal funcionamiento.......
-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+   ....no me responsabilizo por mal funcioanmiento, o uso inadecuado del mismo....
+-------------------------------------------------------------------------------------
+
