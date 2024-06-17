@@ -32,8 +32,14 @@ How to use:
 
 Copy the code to a Python file (for example, AMD_Filter.py).
 Run the script using Python. The invisible translucent window will be created and start working automatically.
+
 I hope this solution is useful for those who are facing similar problems with AMD drivers and color changes in maximized games and applications.
 
 El .exe es la misma version .py pero ya pasda a .exe para su facil acceso y uso.
 
 The .exe is the same .py version but it has already been converted to .exe for easy access and use.
+
+
+------------------------------------------------------------------------------------
+  .......No me responsabilizo por mal uso del mismo, o mal funcionamiento.......
+------------------------------------------------------------------------------------
